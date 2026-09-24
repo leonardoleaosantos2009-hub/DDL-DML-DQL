@@ -1,4 +1,4 @@
-# DDL-DML-
+# DDL-DML-DQL
 Banco de dados com MySQL Workbench
 
 # 🗄️ Portfólio SQL
